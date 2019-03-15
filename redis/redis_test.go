@@ -6,7 +6,7 @@ import (
 
 	"gopkg.in/redis.v3"
 
-	"github.com/aghape/cache"
+	"github.com/ecletus/cache"
 )
 
 var client cache.CacheStoreInterface

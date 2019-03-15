@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/aghape/cache"
+	"github.com/ecletus/cache"
 )
 
 var client cache.CacheStoreInterface
